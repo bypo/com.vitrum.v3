@@ -26,6 +26,13 @@
     "name": "Oreste Dimaggio",
     "email": "oreste@dimaggio.it"
   },
+  "contributing": {
+    "donate": {
+      "paypal": {
+        "username": "OresteDimaggio"
+      }
+    }
+  },
   "contributors": {
     "developers": [
       {
