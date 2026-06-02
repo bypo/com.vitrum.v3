@@ -3,10 +3,8 @@
     "en": "Vitrum 1 On/Off BS"
   },
   "class": "light",
-  "capabilities": [ ],
+  "capabilities": [],
   "capabilitiesOptions": {
-    "uiComponent": null,
-    "getable": false
   },
   "platforms": [
     "local"

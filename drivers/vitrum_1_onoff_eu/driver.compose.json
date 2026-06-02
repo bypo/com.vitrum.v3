@@ -5,8 +5,6 @@
   "class": "light",
   "capabilities": [],
   "capabilitiesOptions": {
-    "uiComponent": null,
-    "getable": false
   },
   "platforms": [
     "local"

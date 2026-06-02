@@ -26,6 +26,13 @@
     "name": "Oreste Dimaggio",
     "email": "oreste@dimaggio.it"
   },
+  "contributing": {
+    "donate": {
+      "paypal": {
+        "username": "OresteDimaggio"
+      }
+    }
+  },
   "contributors": {
     "developers": [
       {
@@ -44,10 +51,7 @@
       },
       "class": "light",
       "capabilities": [],
-      "capabilitiesOptions": {
-        "uiComponent": null,
-        "getable": false
-      },
+      "capabilitiesOptions": {},
       "platforms": [
         "local"
       ],
@@ -337,10 +341,7 @@
       },
       "class": "light",
       "capabilities": [],
-      "capabilitiesOptions": {
-        "uiComponent": null,
-        "getable": false
-      },
+      "capabilitiesOptions": {},
       "platforms": [
         "local"
       ],
@@ -624,10 +625,7 @@
       },
       "class": "light",
       "capabilities": [],
-      "capabilitiesOptions": {
-        "uiComponent": null,
-        "getable": false
-      },
+      "capabilitiesOptions": {},
       "platforms": [
         "local"
       ],
@@ -1108,10 +1106,7 @@
       },
       "class": "light",
       "capabilities": [],
-      "capabilitiesOptions": {
-        "uiComponent": null,
-        "getable": false
-      },
+      "capabilitiesOptions": {},
       "platforms": [
         "local"
       ],
@@ -1584,10 +1579,7 @@
       },
       "class": "light",
       "capabilities": [],
-      "capabilitiesOptions": {
-        "uiComponent": null,
-        "getable": false
-      },
+      "capabilitiesOptions": {},
       "platforms": [
         "local"
       ],
@@ -2927,10 +2919,7 @@
       },
       "class": "light",
       "capabilities": [],
-      "capabilitiesOptions": {
-        "uiComponent": null,
-        "getable": false
-      },
+      "capabilitiesOptions": {},
       "platforms": [
         "local"
       ],
@@ -3232,10 +3221,7 @@
       },
       "class": "light",
       "capabilities": [],
-      "capabilitiesOptions": {
-        "uiComponent": null,
-        "getable": false
-      },
+      "capabilitiesOptions": {},
       "platforms": [
         "local"
       ],
@@ -3670,10 +3656,7 @@
       },
       "class": "light",
       "capabilities": [],
-      "capabilitiesOptions": {
-        "uiComponent": null,
-        "getable": false
-      },
+      "capabilitiesOptions": {},
       "platforms": [
         "local"
       ],
@@ -4164,10 +4147,7 @@
       },
       "class": "light",
       "capabilities": [],
-      "capabilitiesOptions": {
-        "uiComponent": null,
-        "getable": false
-      },
+      "capabilitiesOptions": {},
       "platforms": [
         "local"
       ],
@@ -4824,10 +4804,7 @@
       },
       "class": "light",
       "capabilities": [],
-      "capabilitiesOptions": {
-        "uiComponent": null,
-        "getable": false
-      },
+      "capabilitiesOptions": {},
       "platforms": [
         "local"
       ],
@@ -5862,10 +5839,7 @@
       },
       "class": "light",
       "capabilities": [],
-      "capabilitiesOptions": {
-        "uiComponent": null,
-        "getable": false
-      },
+      "capabilitiesOptions": {},
       "platforms": [
         "local"
       ],
@@ -6682,10 +6656,7 @@
       },
       "class": "light",
       "capabilities": [],
-      "capabilitiesOptions": {
-        "uiComponent": null,
-        "getable": false
-      },
+      "capabilitiesOptions": {},
       "platforms": [
         "local"
       ],
@@ -8077,10 +8048,7 @@
       },
       "class": "light",
       "capabilities": [],
-      "capabilitiesOptions": {
-        "uiComponent": null,
-        "getable": false
-      },
+      "capabilitiesOptions": {},
       "platforms": [
         "local"
       ],
@@ -9237,10 +9205,7 @@
       },
       "class": "light",
       "capabilities": [],
-      "capabilitiesOptions": {
-        "uiComponent": null,
-        "getable": false
-      },
+      "capabilitiesOptions": {},
       "platforms": [
         "local"
       ],
