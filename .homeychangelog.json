@@ -100,5 +100,8 @@
   },
   "4.0.1": {
     "en": "Added support for Vitrum IV Triac EU"
+  },
+  "4.0.3": {
+    "en": "Small Manifest glitches"
   }
 }
