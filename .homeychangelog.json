@@ -103,5 +103,8 @@
   },
   "4.0.3": {
     "en": "Small Manifest glitches"
+  },
+  "4.0.5": {
+    "en": "fix associations on 4 btn devices"
   }
 }
